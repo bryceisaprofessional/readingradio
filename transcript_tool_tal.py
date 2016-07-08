@@ -14,9 +14,17 @@ class DataParser(HTMLParser):
 	def __init__(self):
 		HTMLParser.__init__(self)
 		self.data_list = []
+		self.content_flag = 0
 
+	def handle_starttag(self, tag, attrs):
+		for name, value in attrs:
+			if value == 'radio-wrapper':
+				self.content_flag = 1
+	
 	def handle_data(self, data):
-		self.data_list.append(data)
+		if self.content_flag:
+			self.data_list.append(data)
+
 
 #specific search for books, author
 def book_search(array):
@@ -46,13 +54,17 @@ def book_search(array):
 
 #Setup, may be looped to extract multiple references from multiple links
 
-thisamericanlife_source = extract_source\
-("http://www.thisamericanlife.org/radio-archives/episode/445/transcript")
 
-thisamericanlife_data = DataParser()
-thisamericanlife_data.feed(thisamericanlife_source)
+for i in range(1,10):
+	thisamericanlife_source = extract_source\
+("http://www.thisamericanlife.org/radio-archives/episode/"+ str(i) +"/transcript")
 
-transcript_list = "".join(thisamericanlife_data.data_list).split(' ')
+	thisamericanlife_data = DataParser()
+	thisamericanlife_data.feed(thisamericanlife_source)
 
-for i in book_search(transcript_list):
-	print i + "\n"
+	transcript_list = "".join(thisamericanlife_data.data_list).split(' ')
+
+	print "EPISODE: " + str(i)
+	print "=" * 80
+	for i in book_search(transcript_list):
+		print i + "\n"

@@ -53,9 +53,10 @@ def book_search(array):
 	return context_array
 
 #Setup
+#open books file, write to 'a' for 'append'
+books_file = open('book_file.txt', 'a')
 
-
-for i in range(20,30):
+for i in range(501, 591):
 	thisamericanlife_source = extract_source\
 ("http://www.thisamericanlife.org/radio-archives/episode/"+ str(i) +"/transcript")
 
@@ -64,7 +65,9 @@ for i in range(20,30):
 
 	transcript_list = "".join(thisamericanlife_data.data_list).split(' ')
 
-	print "EPISODE: " + str(i)
-	print "=" * 80
-	for i in book_search(transcript_list):
-		print i + "\n"
+	books_file.write("EPISODE: " + str(i) + "\n")
+	books_file.write( "=" * 80 + "\n")
+	for j in book_search(transcript_list):
+		books_file.write( j + "\n\n")
+	print "Episode " + str(i) + " Done"
+

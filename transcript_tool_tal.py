@@ -37,7 +37,7 @@ def book_search(array):
 		index_count += 1
 		context_list = []
 		if ('book' in i.lower() or 'author' in i.lower()) \
-		and ('facebook' not in i.lower()):
+		and ('face' not in i.lower()):
 			
 			found_array.append("<|"+str(i).upper()+"|>" + " found at: "+ str(index_count))
 			
@@ -55,7 +55,7 @@ def book_search(array):
 #Setup
 
 
-for i in range(10,20):
+for i in range(20,30):
 	thisamericanlife_source = extract_source\
 ("http://www.thisamericanlife.org/radio-archives/episode/"+ str(i) +"/transcript")
 

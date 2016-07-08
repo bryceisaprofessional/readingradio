@@ -20,4 +20,8 @@ thisamericanlife_source = extract_source\
 thisamericanlife_data = DataParser()
 thisamericanlife_data.feed(thisamericanlife_source)
 
-print thisamericanlife_data.data_list
+transcript_list = "".join(thisamericanlife_data.data_list).split(' ')
+
+for i in  transcript_list:
+	if i.lower() == 'book' or i.lower() == 'author':
+		print i

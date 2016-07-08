@@ -14,14 +14,39 @@ class DataParser(HTMLParser):
 	def handle_data(self, data):
 		self.data_list.append(data)
 
+def book_search(array):
+	context_range = 30
+	index_count =  0
+	found_array = []
+	context_array = []
+
+	for i in array:
+		index_count += 1
+		context_list = []
+		if ('book' in i.lower() or 'author' in i.lower()) \
+		and ('facebook' not in i.lower()):
+			
+			found_array.append("<|"+str(i).upper()+"|>" + " found at: "+ str(index_count))
+			
+			for j in range(index_count - context_range/2, index_count + context_range):
+				
+				if j == index_count - 1: 
+					context_list.append("<|" + array[j].upper() + "|>")
+				else:
+					context_list.append(array[j])
+			
+			context_array.append(' '.join(context_list))
+
+	return context_array
+
+
 thisamericanlife_source = extract_source\
-("http://www.thisamericanlife.org/radio-archives/episode/362/transcript")
+("http://www.thisamericanlife.org/radio-archives/episode/445/transcript")
 
 thisamericanlife_data = DataParser()
 thisamericanlife_data.feed(thisamericanlife_source)
 
 transcript_list = "".join(thisamericanlife_data.data_list).split(' ')
 
-for i in  transcript_list:
-	if i.lower() == 'book' or i.lower() == 'author':
-		print i
+for i in book_search(transcript_list):
+	print i + "\n"

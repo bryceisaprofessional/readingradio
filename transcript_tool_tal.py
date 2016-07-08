@@ -52,10 +52,10 @@ def book_search(array):
 
 	return context_array
 
-#Setup, may be looped to extract multiple references from multiple links
+#Setup
 
 
-for i in range(1,10):
+for i in range(10,20):
 	thisamericanlife_source = extract_source\
 ("http://www.thisamericanlife.org/radio-archives/episode/"+ str(i) +"/transcript")
 

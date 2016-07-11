@@ -27,7 +27,7 @@ class TitleParser(HTMLParser):
 
 titles_list = []
 
-for i in range (465,591):
+for i in range (1,591):
 
 	tal_source = extract_source \
 	("http://www.thisamericanlife.org/radio-archives/episode/" + str(i) + "/")

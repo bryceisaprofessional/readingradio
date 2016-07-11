@@ -27,7 +27,7 @@ class TitleParser(HTMLParser):
 
 titles_list = []
 
-for i in range (6,591):
+for i in range (465,591):
 
 	tal_source = extract_source \
 	("http://www.thisamericanlife.org/radio-archives/episode/" + str(i) + "/")
@@ -39,7 +39,7 @@ for i in range (6,591):
 titles_file = open("TAL_titles.csv", 'a') 
 
 for i in titles_list:
-	titles_file.write(i + ",\n")
+	titles_file.write(i + "\n")
 
 print "wrote titles to TAL_titles.csv"
 

@@ -110,3 +110,26 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 68, Lincoln's Second Inaugural, , , , , 
 69, Dream House, "Blue Sky Dream: A Memoir of America's Fall from Grace", David Beers, 015600531X
 70, Other People's Mail, "Lawn", Mona Simpson, , , 
+71, Defying Sickness, "The Hemophiliac's  Motorcycle", Tom Andrews, 0877454523, , 
+,, "The Man in the Iron Lung", Mark O'Brien , 1891420038
+72, Trek, , , , 
+73, Blame it on Art, "Balloon Animals", Aaron Hsu-Flanders, 0809245930, , 
+,, "More Balloon Animals", Aaron Hsu-Flanders, 0809241838, , 
+,, "Balloon Hats and Accessories", Aaron Hsu-Flanders, 0809243830 , , 
+,, "Balloon Cartoons and Other Favorites", Aaron Hsu-Flanders, 0071437444 , , 
+, , "Dress Your Family in Corduroy and Denim", David Sedaris, 0316010790,,
+,,"Keys to the City: Tales of a New York City Locksmith", Joel Kostman, 0140279474, , 
+74, Conventions, , , , 
+75, Kindness of Strangers, "Keys to the City: Tales of a New York City Locksmith", Joel Kostman, 0140279474, , 
+76, Mob, "Take the Cannoli: Stories From the New World", Sarah Vowell , 0743205405
+,, "Assassination Vacation", Sarah Vowell,  074326004X, , 
+,, "Easy street", Susan Berman, 0385271859, , 
+,, "The Green Felt Jungle", Ed Reid and Ovid Demaris, 4871873269, , 
+,, "Complete Idiot's Guide to the Mafia", Jerry Capeci, 0028642252, , 
+,, "Mr. Apology and Other Essays", Alec Wilkinson, 0618123113 , , 
+77, Pray, , , , , 
+78, How Bad Is Bad?, , , , 
+79, Stuck in the Wrong Decade, "Cosmicomics", Italo Calvino ,  0156226006, , 
+80, Running After Antelope, "Running After Antelope", Scott Carrier, 1582431795, , 
+
+

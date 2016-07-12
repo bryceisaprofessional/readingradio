@@ -75,4 +75,24 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 48, Justice,
 49, Animals, "Food Chain: Encounters Between Mates, Predators, and Prey", Catherine Chalmers, 0893819107,,
 ,,"Running After Antelope", Scott Carrier, 1582431795,,
-50, Shoulda Been Dead
+50, Shoulda Been Dead, ,, ,
+51, "Animals Die, People Ponder", "CivilWarLand in Bad Decline: Stories and a Novella", George Saunders, 0812987683
+52, Edge of Sanity, "Girl, Interrupted", Susanna Kaysen, 0679746048
+,,"Naked", David Sedaris, 31677773, https://www.amazon.com/dp/0316777730/,
+,, "Johnny Tremain", Esther Forbes, 9994591045, 
+53, Valentine's Day '97, "Wild Ride: Earthquakes, Sneezes and Other Thrills", Bia Lowe, 0060926953
+,,"The Women", Hilton Als, 0374525293
+54, Sinatra, "The Death of Frank Sinatra: A Novel by Michael Ventura", Michael Ventura, 0312964749
+,,"Take the Cannoli: Stories From the New World", Sarah Vowell , 0743205405
+55, Three Women and the Sex Industry, "Red Light: Inside the Sex Industry", James Ridgeway, 1560251972
+56, Name Change, , , , 
+57, Delivery, "Drown", Junot Díaz, 1573226068
+,,"Naked", David Sedaris, 31677773, https://www.amazon.com/dp/0316777730/,
+58, Small Towns,
+59, Fire, "Burning Bush: A Fire History of Australia", Stephen Pyne, 0295976772, , 
+,, "Fire in America: A Cultural History of Wildland and Rural Fire", Stephen Pyne, 029597592X,, 
+,, "World Fire: The Culture of Fire on Earth", Stephen Pyne, 0295975938, , 
+60, Business of Death, "Wisconsin Death Trip", Michael Lesy, 0826321933, , 
+,, "The Forbidden Zone", Michael Lesy, 0233982035, , 
+,, "On Fire", Larry Brown, B0097DM5HW, ,
+,,"Naked", David Sedaris, 31677773, https://www.amazon.com/dp/0316777730/,

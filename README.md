@@ -25,8 +25,8 @@ Manually catalog books, look up by title in Online databses for ISBN number.
 Create webpage from database of books.
 
 Progress:
-<Scripting> - 90% Done, functional, need HTML generator.
-<Transcripts> - 100%, parsed with highlighted references,
-<Episode Data> - 100%, Title and episode data scrubbed, 
-<Book Catalog> - 12% - 70/590 Complete, Manually cataloging book references
-<Website> - 0%,  
+Scripting - 90% Done, functional, need HTML generator.
+Transcripts - 100%, parsed with highlighted references,
+Episode Data - 100%, Title and episode data scrubbed, 
+Book Catalog - 12% - 70/590 Complete, Manually cataloging book references
+Website - 0%,  

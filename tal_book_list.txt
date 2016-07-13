@@ -359,8 +359,24 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"Surface Tension", Brent Runyon, B001TGYTUG, , 
 210, Perfect Evidence, "Whoever Fights Monsters: My Twenty Years Tracking Serial Killers for the FBI", Robert K. Ressler, 0312950446, ,
 ,,"Police Interrogation and American Justice", Richard Leo, 0674035313
-
-
+211, Naming Names, "Them: Adventures with Extremists", Jon Ronson , 0743233212, , 
+,,"Death of a Salesman", Arthur Miller, 0140481346, ,
+,,"The Crucible: A Play in Four Acts", Arthur Miller, 014243733, , 
+212, The Other Man, "two eyes are you sleeping", Heather O'Neill, 0919688179, , 
+,,"Lenny Bruce Is Dead: A Novel", Jonathan Goldstein, 158243347X, , 
+213, Devil on My Shoulder, "The Screwtape Letters", C.S. Lewis, 0060652934, , 
+214, Family Physics, "The Men Who Stare at Goats",  Jon Ronson, 1439181772, , 
+"Dress Your Family in Corduroy and Denim", David Sedaris, 0316010790,,
+215, Ask An Expert, , , , , 
+216, Give the People What They Want, "The Other Side of the River: A Story of Two Towns, a Death, and America's Dilemma ", Alex Kotlowitz,  038547721X, , 
+217, Give It to Them,, , , , 
+218, Act V, "Hamlet", William Shakespeare, 0451526929, , 
+219, High Speed Chase, , , , , 
+220, Testosterone, "The Woman's Room", Marilyn French, B000GP7DOK, , 
+,,"Fear of Flying", Erica Jong, B005SDOTSS, , 
+,,"Men Are from Mars, Women Are from Venus", John Gray, 0060574216, , 
+,,"Heroes, Rogues, and Lovers: Testosterone and Behavior",  James McBride Dabbs  & Mary Godwin Dabbs, 0071357394, , 
+,,"Swing Low: A Life", Miriam Toews, B003BO3S5Q, , 
 
 
 

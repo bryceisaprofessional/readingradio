@@ -392,6 +392,23 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 228, You Are So BeautifulTo Me, "The Angel on the Roof",  Russell Banks, 0060931256, , 
 229, Secret Government, , , , , 
 230, Come Back to Afghanistan, "Soldiers of God: With Islamic Warriors in Afghanistan and Pakistan", Robert D. Kaplan, 1400030250,,
+231, Time to Save the World, , , , , 
+232, The Real Story, "Jarhead: A Marine's Chronicle of the Gulf War and Other Battles", Anthony Swofford, 0743244915, , 
+,,"The Birth of the Palestinian Refugee Problem, 1947-1949", Benny Morris, 0521338891, , 
+233, Starting from Scratch, "Ladies and Gentlemen, the Bible!", Jonathan Goldstein, 1594483671, ,
+234, Say Anything, "Please Read This for Me: How to Tell the Man You Love Things You Can't Put into Words", Neil Chesanow  & Gareth Lauren Esersky, 1557100160, , 
+,, "The Last American Man", Elizabeth Gilbert, 0142002836, , 
+,, "Lenny Bruce Is Dead: A Novel", Jonathan Goldstein, 158243347X, , 
+235, The Balloon Goes Up, "Jarhead: A Marine's Chronicle of the Gulf War and Other Battles", Anthony Swofford, 0743244915, , 
+,,"Me Talk Pretty One Day", David Sedaris, 0316776963, ,
+,,"The Partly Cloudy Patriot", Sarah Vowell, 0743243803, , 
+236, My Two Cents, "11 Years 9 Months, and 5 Days", Greg Tate, 0738829846, , 
+237, Regime Change, "Clumsy", Jeffrey Brown, 0971359768, , 
+238, Lost in Translation, , , , , 
+239, Lost in America, "Lenny Bruce Is Dead: A Novel", Jonathan Goldstein, 158243347X, , 
+,,"The Partly Cloudy Patriot", Sarah Vowell, 0743243803, , 
+240, I'm In Charge Now,"Me Talk Pretty One Day", David Sedaris, 0316776963, ,
+
 
 
 

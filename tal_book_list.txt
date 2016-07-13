@@ -340,5 +340,28 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"Ladies and Gentlemen, the Bible!", Jonathan Goldstein, 1594483671, , 
 199, House on Loon Lake, , , , , 
 200, Hearts and Minds, "Cases in Strategic Marketing Management: Business Strategies in Muslim Countries", John Quelch, 0130283576, , 
+201, Them, "Dress Your Family in Corduroy and Denim", David Sedaris, 0316010790,,
+202, Faith, "Chariots of the Gods: Unsolved Mysteries of the Past", Erich von Daniken, 0425166805, , 
+203, Recordings for Someone, , , , , 
+204, 81 Words, "DSM-IV: Diagnostic and Statistical Manual of Mental Disorders",  American Psychiatric Association, 0890420610, , 
+,,"Homosexuality: A Freedom Too Far Hardcover",  Charles W. Socarides, B010EVY6EK, , 
+205, Plan B, "More Information Than You Require", John Hodgman, 1594483647, ,
+,,"Ladies and Gentlemen, the Bible!", Jonathan Goldstein, 1594483671, ,
+,,"Castle: A Novel", J. Robert Lennon, B00403MNT4, , 
+,,"Pieces for the Left Hand: Stories",J. Robert Lennon, 1555975232, , 
+,,"Plan B for the Middle Class",  Ron Carlson , 0393331822, , 
+206, Somewhere in the Arabian Sea, , , , , 
+207, Special Ed, "Waiting for the Apocalypse: A Memoir of Faith and Family", Veronica Chater, B001RVFLJQ, , 
+208, Office Politics, "Fraud: Essays", David Rakoff, 0767906314,, 
+,,"Sidewalk", Mitchell Duneier, 037452725 , 
+209, Didn't Ask to Be Born "Live Through This: A Mother's Memoir of Runaway Daughters and Reclaimed Love", Debra Gwartney, B003JTHWQY, , 
+,,"The Burn Journals", Brent Runyon, 1400096421, , 
+,,"Surface Tension", Brent Runyon, B001TGYTUG, , 
+210, Perfect Evidence, "Whoever Fights Monsters: My Twenty Years Tracking Serial Killers for the FBI", Robert K. Ressler, 0312950446, ,
+,,"Police Interrogation and American Justice", Richard Leo, 0674035313
+
+
+
+
 
 

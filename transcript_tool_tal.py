@@ -36,8 +36,8 @@ def book_search(array):
 	for i in array:
 		index_count += 1
 		context_list = []
-		if ('book' in i.lower() or 'author' in i.lower()) \
-		and ('face' not in i.lower()):
+		if ('book' in i.lower() or 'author' in i.lower()) or 'memoir' in i.lower() \
+		or 'novel' in i.lower() and ('face' not in i.lower()):
 			
 			found_array.append("<|"+str(i).upper()+"|>" + " found at: "+ str(index_count))
 			

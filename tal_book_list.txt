@@ -377,6 +377,22 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"Men Are from Mars, Women Are from Venus", John Gray, 0060574216, , 
 ,,"Heroes, Rogues, and Lovers: Testosterone and Behavior",  James McBride Dabbs  & Mary Godwin Dabbs, 0071357394, , 
 ,,"Swing Low: A Life", Miriam Toews, B003BO3S5Q, , 
+221, "Fake I.D.", "The Pages In Between: A Holocaust Legacy of Two Families, One Home", Erin Einhorn, B001FXSOIG, , 
+,,"Interpreter of Maladies", Jhumpa Lahiri , 039592720X, , 
+,,"Dress Your Family in Corduroy and Denim", David Sedaris, 0316010790,,
+222, Suckers, , , , ,
+223, Classifieds, , , , , 
+224, Middlemen, , , , , 
+225, Home Movies, "Ladies and Gentlemen, the Bible!", Jonathan Goldstein, 1594483671, , 
+,,"When You Are Engulfed in Flames", David Sedaris, 0316154687, , 
+226, Reruns, "The Partly Cloudy Patriot", Sarah Vowell, 0743243803, , 
+,,"Clumsy", Jeffrey Brown, 0971359768, , 
+227, Why We Fight, "The Threatening Storm: the Case for Invading Iraq",  Kenneth Pollack, B000FBFMHA, , 
+,,"Dear Mr. President", Gabe Hudson, 0375713409, ,
+228, You Are So BeautifulTo Me, "The Angel on the Roof",  Russell Banks, 0060931256, , 
+229, Secret Government, , , , , 
+230, Come Back to Afghanistan, "Soldiers of God: With Islamic Warriors in Afghanistan and Pakistan", Robert D. Kaplan, 1400030250,,
+
 
 
 

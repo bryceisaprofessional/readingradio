@@ -29,5 +29,5 @@ Progress:
 <li>SCRIPTING: 90% Done, functional, need HTML generator.</li>
 <li>TRANSCRIPTS: 100%, parsed with highlighted references,</li>
 <li>EPISODE DATA: - 100%, Title and episode data scrubbed, </li>
-<li>BOOK CATALOG: - 30% - 180/590 Complete, Manually cataloging book references</li>
+<li>BOOK CATALOG: - 33% - 200/590 Complete, Manually cataloging book references</li>
 <li>WEBSITE - 0% </li> 

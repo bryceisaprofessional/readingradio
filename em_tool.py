@@ -1,3 +1,6 @@
+#script to grab emphasis tags in transcripts, these contain the titles of books
+#and publications referenced. 
+
 import urllib
 from HTMLParser import HTMLParser
 
@@ -25,14 +28,18 @@ class ItalicsParser(HTMLParser):
 			self.title_data.append(data)
 		self.italic_tag = 0
 
+media_titles = open('em_titles.txt','a')
 
-for i in range(201,211):
+for i in range(211,301):
 
 	tal_source = extract_source \
-		("http://www.thisamericanlife.org/radio-archives/episode/" + str(i) + "/transcript")
+		("http://www.thisamericanlife.org/radio-archives/episode/" + str(i) +\
+		 "/transcript")
 	tal_titles = ItalicsParser()
 	tal_titles.feed(tal_source)
-	print "EPISODE: " + str(i)
-	print "=" * 80 + "\n"
-	print ' '.join(tal_titles.title_data) + "\n"
+	media_titles.write("EPISODE: " + str(i)+ "\n")
+	media_titles.write("=" * 80 + "\n")
+	media_titles.write(' '.join(tal_titles.title_data) + "\n" + "\n")
 
+
+print "finished writing titles"

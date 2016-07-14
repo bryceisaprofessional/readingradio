@@ -490,7 +490,7 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"Children Playing Before a Statue of Hercules", David Sedaris, 074327394X,
 ,,"America, the Book: A Citizen's Guide to Democracy Inaction", Jon Stewart & Ben Karlin & David Javerbaum,  1435270029, , 
 289, Go Ask Your Father, "Go Ask Your Father: One Man's Obsession with Finding His Origins Through DNA Testing", Lennard Davis, B00UULL9U4, , 
-290, Godless America, "The Godless Constitution: A Moral Defense of the Secular State", Issac Kramnick & R. Laurence Moore, 
+290, Godless America, "The Godless Constitution: A Moral Defense of the Secular State", Issac Kramnick & R. Laurence Moore, 0393328376, , 
 
 
 

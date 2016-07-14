@@ -605,12 +605,18 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"Man Medium Rare: Sex, Guns, and Other Perversions of Masculinity", Ian Brown, 0452274494, ,
 350, Human Resources, "Flat Broke in the Free Market: How Globalization Fleeced Working People", Jon Jeter, B002A6RS0W, , 
 ,,"The Wauchula Woods Accord: Toward a New Understanding of Animals", Charles Siebert, B002AP9G08, , 
-
-
-
-
-
-
-
+351, Return to Childhood 2008, "Better Than Running at Night",  Hillary Frank, 0618250735, , 
+,,"I Can't Tell You", Hillary Frank, 061849491X, , 
+352, The Ghost of Bobby Dunbar, "A Case for Solomon: Bobby Dunbar and the Kidnapping That Haunted a Nation ", Tal McThenia, 1439158606, , 
+353, The Audacity of Government, "Takeover: The Return of the Imperial Presidency and the Subversion of American Democracy", Charlie Savage, 0316118052, , 
+354, Mistakes Were Made, "Rose, Where Did You Get That Red?: Teaching Great Poetry to Children", Kenneth Koch, 0679724710, , 
+,,"Itty City", Sean Cole, 0972108998, , 
+355, The Giant Pool of Money, , , , , 
+356, The Prosecutor, "The Best Terrorists We Could Find: A Decade on the Domestic Front of the War on Terror", Petra Bartosiewicz, 1568583729, , 
+357, The Truth Will Out, "The Girl on the Fridge: Stories", Etgar Keret, 0374531056, , 
+,,"The Looming Tower: Al-Qaeda and the Road to 9/11", Lawrence Wright, 1400030846, , 
+358, Social Engineering, , , , , 
+359, Life After Death, "More Than It Hurts You: A Novel", Darin Strauss, 
+360, Switched At Birth, "Dormia", Jake Halpern & Peter Kujawinski, 0547328877, , 
 
 

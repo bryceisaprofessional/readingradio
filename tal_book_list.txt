@@ -586,6 +586,27 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 339, Break-Up, "The Boys and Girls Book About Divorce", Richard Gardner, 0553276190, , 
 ,,"Walking in Circles Before Lying Down: A Novel", Merrill Markoe, 0812975464, , 
 340, The Devil in Me, , , , , 
+341, How to Talk to Kids, , , , , 
+342, How to Rest in Peace, The Lost Night: A Daughter's Search for the Truth of Her Father's Murder", Rachel Howard, 0525948627, , 
+,,"Final Exit: The Practicalities of Self-Deliverance and Assisted Suicide for the Dying", Derek Humphry, 0385336535, , 
+343, Poultry Slam 2007, , , , , 
+344, The Competition, "Nobodies: Modern American Slave Labor and the Dark Side of the New Global Economy", John Bowe, B000SH2YTA, , 
+345, Ties That Bind, "Cold Hands, Warm Heart", Jil Wolfson, B002LA0AGQ, , 
+, , "Better Than Running at Night",  Hillary Frank, 0618250735, , 
+346, Home Alone, "Heat Wave: A Social Autopsy of Disaster in Chicago", Eric Klinenberg, 022627618X, , 
+,,"Going Solo: The Extraordinary Rise and Surprising Appeal of Living Alone", Eric Klinenberg, 0143122770, , 
+347, Matchmakers, "The New York Regional Mormon Singles Halloween Dance, a Memoir", Elna Baker, 0452296498, , 
+348, Tough Room, "Drinking with Men: A Memoir", Rosie Schaap, 1594632316, , 
+,,"The Tipping Point", Malcolm Gladwell , 0316346624, , 
+,,"Blink: The Power of Thinking Without Thinking", Balcolm Gladwell, 0316010669, ,
+349, Valentine's Day 2008, "The Selected Stories of Richard Bausch", Richard Bausch 0679640177, ,
+,,"Thanksgiving Night: A Novel", Richard Bausch, 0060094443, , 
+,,"The Protection Formula (Thinking Like a Cop)", Lyle Arnold  & Paul Lippman & Mary Arnold, 0965024172, , 
+,,"Man Medium Rare: Sex, Guns, and Other Perversions of Masculinity", Ian Brown, 0452274494, ,
+350, Human Resources, "Flat Broke in the Free Market: How Globalization Fleeced Working People", Jon Jeter, B002A6RS0W, , 
+,,"The Wauchula Woods Accord: Toward a New Understanding of Animals", Charles Siebert, B002AP9G08, , 
+
+
 
 
 

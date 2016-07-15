@@ -639,5 +639,18 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 369, Poultry Slam 2008, "And a Bottle of Rum: A History of the New World in Ten Cocktails", Wayne Curtis, 0307338622, , 
 ,, "Beware of God: Stories", Shalom Auslander, 0743264576, 
 370, Ruining It for the Rest of Us, , , , , 
+371, Scenes From a Mall, "Behind the Red Suit: The Business of Santa Claus", RBS Timothy Connaghan, 145072647X, , 
+372, The Inauguration Show, "Thanks and Have Fun Running the Country: Kids' Letters to President Obama", 1934781576, , 
+,," A New Kind of Conservative",  Joel C. Hunter, B00LFTH2J2, , 
+373, The New Boss, "The General Theory of Employment, Interest, and Money", John Maynard Keynes, 0156347113, , 
+374, Somewhere Out There, MISSING TRANSCRIPT , , , , 
+375, Bad Bank, , , , , 
+376, Wrong Side of History, "Weddings of the Times: A Parody",  Kasper Hauser Comedy Group, B00F8I1B6G, , 
+,,"Dreams from My Father: A Story of Race and Inheritance",  Barack Obama, B000N2HCM4
+,,"Never a City So Real", Alex Kotlowitz, B000FC1TFS, , 
+377, Scenes From a Recession, , , , 
+378, This I Used to Believe, "The UnAmericans: Stories", Molly Antopol , 0393349969, , 
+379, Return To The Scene Of The Crime, , , , , 
+380, No Map, , , , , 
 
 

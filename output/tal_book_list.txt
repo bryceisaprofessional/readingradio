@@ -703,6 +703,18 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 408, Island Time , , , , ,
 409, Held Hostage, , , , , 
 410, Social Contract, , , , , 
+411, First Contact, "Sleepwalk with Me: and Other Painfully True Stories", Mike Birbiglia, B003UYUSBY, , 
+,,"The Eerie Silence: Renewing Our Search for Alien Intelligence", Paul Davies, 054742258X, ,, 
+412, Million Dollar Idea, , , , , 
+413, Georgia Rambler, , , , , 
+414, Right to Remain Silent, , , , , 
+415, Crybabies, "Squirrel Seeks Chipmunk: A Modest Bestiary", David Sedaris, 0316038407, , 
+416, Iraq After Us, , , , , 
+417, This Party Sucks, , , , , 
+418, Toxie, , , , , 
+419, Petty Tyrant, , , , , 
+420, Neighborhood Watch, "C'mon Papa: Dispatches from a Dad in the Dark", Ryan Knighton, B003HG5R20, , 
+"Disarmed And Dangerous: The Radical Lives And Times Of Daniel And Philip Berrigan", Murray Polner  & Jim O'grady, 046503084X, , 
 
 
 

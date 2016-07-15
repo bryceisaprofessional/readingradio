@@ -30,7 +30,7 @@ class ItalicsParser(HTMLParser):
 
 media_titles = open('em_titles.txt','a')
 
-for i in range(301,401):
+for i in range(401,501):
 
 	tal_source = extract_source \
 		("http://www.thisamericanlife.org/radio-archives/episode/" + str(i) +\

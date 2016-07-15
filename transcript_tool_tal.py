@@ -54,7 +54,7 @@ def book_search(array):
 
 #Setup
 #open books file, write to 'a' for 'append'
-books_file = open('book_file.txt', 'a')
+books_file = open('output/book_file.txt', 'a')
 
 for i in range(501, 591):
 	thisamericanlife_source = extract_source\

@@ -28,7 +28,7 @@ class ItalicsParser(HTMLParser):
 			self.title_data.append(data)
 		self.italic_tag = 0
 
-media_titles = open('em_titles.txt','a')
+media_titles = open('output/em_titles.txt','a')
 
 for i in range(401,501):
 

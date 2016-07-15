@@ -36,7 +36,7 @@ for i in range (1,591):
 	print tal_titles.titles[0]
 	titles_list.append(tal_titles.titles[0])
 
-titles_file = open("TAL_titles.csv", 'a') 
+titles_file = open("output/TAL_titles.csv", 'a') 
 
 for i in titles_list:
 	titles_file.write(i + "\n")

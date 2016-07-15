@@ -688,6 +688,22 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 399, Contents Unknown, "Explaining Hitler: The Search for the Origins of His Evil, updated edition", Ron Rosenbaum, 0306823187, , 
 ,,"The Answer to the Riddle Is Me: A Memoir of Amnesia", David Stuart MacLean, 0547519273, , 
 400, Stories Pitched by Our Parents, "The Funny Side of Death: A Look at the Funny Side of Death From the Eyes of Retired Funeral Home and Cemetery Owner, Lee B. Downs", Lee B. Downs, 143890231X, , 
+401,  Parent Trap, "Lucy: Growing Up Human : A Chimpanzee Daughter in a Psychotherapist's Family", Maurice K. Temerlin, 0831400455, , 
+,,"The Wauchula Woods Accord: Toward a New Understanding of Animals", Charles Siebert, B002AP9G08,
+402, Save the Day, , , , , 
+403, NUMMI, "Rude Awakening: The Rise Fall and Struggle for Recovery of General Motors", Maryann Keller, 0688075274, , 
+,,"The Machine That Changed the World", James P. Womack, 0743299795, , 
+404, Enemy Camp 2010, "Sex, Priests, and Secret Codes: The Catholic Church's 2,000 Year Paper Trail of Sexual Abuse", Thomas P. Doyle  & A.W. Richard Sipe & Patrick J. Wall, 1566252652, , 
+,,"Parasite Rex", Carl Zimmer, 074320011X, , 
+,,"The Nimrod Flipout: Stories", Etgar Keret, 0374222436, , 
+,,"The Girl on the Fridge: Stories", Etgar Keret, 0374531056, , 
+405, Inside Job, "The Big Short: Inside the Doomsday Machine", Michael Lewis, 0393338827, , 
+406, True Urban Legends, "Mount Pleasant: My Journey from Creating a Billion-Dollar Company to Teaching at a Struggling Public High School", Steve Poizner, 1591843456, , 
+407, The Bridge, , , , , 
+408, Island Time , , , , ,
+409, Held Hostage, , , , , 
+410, Social Contract, , , , , 
+
 
 
 

@@ -728,6 +728,20 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"The Girl on the Fridge: Stories", Etgar Keret, 0374531056, , 
 429, Will They Know Me Back Home?, "The Good Soldiers", David Finkel, 0312430027, , 
 430, Very Tough Love, "The Code", Parag Y. Shah, 0982041004, , 
+431, See No Evil, "Voices from Chernobyl: The Oral History of a Nuclear Disaster",  Svetlana Alexievich, 0312425848, , 
+432, "Know When To Fold 'Em", "Positively Fifth Street: Murderers, Cheetahs, and Binion's World Series of Poker", James McManus, 0312422520, , 
+,,"House of Cards: Love, Faith, and Other Social Expressions", David Ellis Dickerson, B002ZNJWQ8,
+,,"The Last of the Tribe: The Epic Quest to Save a Lone Man in the Amazon", Monte Reel, B003L786W8, , 
+433, Fine Print 2011, "Half Empty", David Rakoff, 0767929055, , 
+434, This Week, "CEO of Self", Herman Cain, 1930819048, , 
+435, How To Create a Job, , , , , 
+436, The Psychopath Test, "The Psychopath Test: A Journey Through the Madness Industry", Jon Ronson, 1594485755, , 
+437, Old Boys Network, , , , , 
+438, Father's Day 2011, "You're Not Doing It Right: Tales of Marriage, Sex, Death, and Other Humiliations", Michael Ian Black, 1439167869, , 
+,,"Think and Grow Rich", Napoleon Hill, 0143110160, , 
+439, A House Divided, "Fiction Ruined My Family", Jeanne Darst, 1594486174, , 
+440, Game Changer, , , , , 
+
 
 
 

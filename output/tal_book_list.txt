@@ -715,6 +715,22 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 419, Petty Tyrant, , , , , 
 420, Neighborhood Watch, "C'mon Papa: Dispatches from a Dad in the Dark", Ryan Knighton, B003HG5R20, , 
 "Disarmed And Dangerous: The Radical Lives And Times Of Daniel And Philip Berrigan", Murray Polner  & Jim O'grady, 046503084X, , 
+421, Last Man Standing, "The New York Regional Mormon Singles Halloween Dance, a Memoir", Elna Baker, 0452296498, , 
+422, Comedians of Christmas Comedy Special, "Sleepwalk with Me: and Other Painfully True Stories", Mike Birbiglia, B003UYUSBY, , 
+423, The Invention of Money, "End The Fed", Ron Paul, 0446549177, , 
+424, Kid Politics, "The Brothers Karamazov", Fyodor Dostoevsky, 0374528373, , 
+425, Slow To React, "Dreaming in Hindi: Coming Awake in Another Language", Katherine Russell Rich, 0547336934, , 
+426, Tough Room 2011, "Drinking with Men: A Memoir", Rosie Schaap, 1594632316, , 
+427, Original Recipe, "The Dark Side of Camelot", Seymour M. Hersh, 0316360678, , 
+,,"World's End (Dormia)", Jake Halpern & Peter Kujawinski, 0547577192, , 
+428, Oh You Shouldn't Have, "Hanna and Walter: A Love Story", Hanna Kohner, 0425157679, , 
+,,"I'll Cry Tomorrow", Lillian Roth, B006QZ9T6E, , 
+,,"The Girl on the Fridge: Stories", Etgar Keret, 0374531056, , 
+429, Will They Know Me Back Home?, "The Good Soldiers", David Finkel, 0312430027, , 
+430, Very Tough Love, "The Code", Parag Y. Shah, 0982041004, , 
+
+
+
 
 
 

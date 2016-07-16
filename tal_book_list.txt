@@ -842,6 +842,18 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 509,  It Says So Right Here, , , , ,
 510, Fiasco!,"The Hotel Eden: Stories", Ron Carlson, B00G3YO3BY, ,
 ,,"Return to Oakpine: A Novel", Ron Carlson, 0143125591, ,
+511, The Seven Things You're Not Supposed to Talk About, "Health Food Junkies: Orthorexia Nervosa - the Health Food Eating Disorder", Steven Bratman M.D. & David Knight, 0767905857, ,
+512, House Rules, "The Concerns of a Citizen", George W., Romney ,0399101683, ,
+513, 129 Cars, "The Art Of War",  Sun Tzu, 1599869772, ,
+,,"The 7 Habits of Highly Effective People",  Stephen R. Covey, 1451639619, ,
+514, Thought That Counts, "A Permanent Member of The Family",  Russell Banks , 0061857661, ,
+515, Good Guys, , , , ,
+516, Stuck In The Middle, "A House in the Sky: A Memoir",  Amanda Lindhout & Sara Corbett, 1451645619, ,
+517, Day At The Beach, "Let's Explore Diabetes with Owls", David Sedaris, 0316154709, ,
+518, Except For That One Thing, "One More Thing: Stories and Other Stories", B.J. Novak, 0804169780, ,
+,,"Suddenly, a Knock on the Door: Stories", Etgar Keret, 0374533334, ,
+519, Dead Men Tell No Tales, , , , ,
+520, No Place Like Home, , , , ,
 
 
 

@@ -814,6 +814,18 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 488, "Harper High School, Part Two","There Are No Children Here",  Alex Kotlowitz, 0385265565,, 
 489, "No Coincidence, No Story!", "The Scarlet Letter", Nathaniel Hawthorne, 1512090565
 490, Trends With Benefits, "The Declining Work and Welfare of People with Disabilities:",  Richard V. Burkhauser  & Mary Daly, 0844772151, , 
+491, Tribes, "The World Until Yesterday",  Jared Diamond, 0143124404, , 
+,,"Like the Red Panda",  Andrea Seigel, 0156030241,, 
+492, "Dr. Gilmer and Mr. Hyde", , , , ,
+493, Picture Show, , , , , 
+494, Hit the Road, "Walking to Listen", Andrew Forsthoefel, 1632867001, , 
+495, Hot In My Backyard, "The End of Nature",  Bill McKibben, 0812976088, , 
+496, "When Patents Attack... Part Two!", "Modernist Cuisine: The Art and Science of Cooking", Nathan Myhrvold & Chris Young, & Maxime Bilet, 0982761007, , 
+497, This Week, , , , , 
+498, The One Thing You're Not Supposed To Do, "Stories for Nighttime and Some for the Day",  Ben Loory, 0143119508
+499, Taking Names, "To Be a Friend Is Fatal", Kirk W. Johnson, 147671049X, , 
+500, 500!, , , , , 
+
 
 
 

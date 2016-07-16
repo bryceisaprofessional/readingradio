@@ -752,7 +752,7 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 447, The Incredible Case of the P.I. Moms, , , , , 
 448, Adventure!, , , , , 
 449, Middle School, "Not Much Just Chillin': The Hidden Lives of Middle Schoolers", Linda Perlstein, 0345475763, , 
-,,"Boy Kings of Texas: A Memoir", Domingo Martinez, 0762779195, , 
+,,"The Boy Kings of Texas: A Memoir", Domingo Martinez, 0762779195, , 
 450, So Crazy It Just Might Work, "The Man Who Loved Only Numbers", Paul Hoffman, 0786884061, , 
 ,,"Lost Science", Gerry Vassilatos, 0945685254, , 
 451, Back to Penn State, "Nobody's Family is Going to Change", Louise Fitzhugh,1939601495,, 
@@ -775,7 +775,7 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"Squirrel Seeks Chipmunk: A Modest Bestiary", David Sedaris, 0316038407, , 
 465, What Happened At Dos Erres, "Finding Oscar: Massacre, Memory, and Justice in Guatemala",  Ana Arana & Sebastian Rotella, B0085O8154, 
 466, Blackjack, "Bunch of Amateurs: Inside America's Hidden World of Inventors, Tinkerers, and Job Creators",  Jack Hitt, 0307393763, , 
-,,"The Power of Habit: Why We Do What We Do in Life and Business",  Charles Duhigg,  Charles Duhigg, , 
+,,"The Power of Habit: Why We Do What1612344615, We Do in Life and Business",  Charles Duhigg,  Charles Duhigg, , 
 467, Americans in China, "The Last Days of Old Beijing: Life in the Vanishing Backstreets of a City Transformed", Michael Meyer, B003WUYE3E, , 
 ,,"In Manchuria: A Village Called Wasteland and the Transformation of Rural China", Michael Meyer, 1620402882, 
 468, Switcheroo, , , , , 
@@ -786,16 +786,20 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"Shade of the Tree", Piers Anthony, 0812531035, , 
 ,,"Fractal Mode (The Mode Series)", Piers Anthony, 0399136495, , 
 ,,"I'll Seize the Day Tomorrow", Jonathan Goldstein, 014317388X, , 
-
-
-
-
-
-
-
-
-
-
-
-
+471, The Convert, "The Terror Factory: Inside the FBI's Maufactured War on Terrorism", 1935439960, , 
+472, Our Friend David, "Men Are from Mars, Women Are from Venus", John Gray, 0060574216, , 
+,,"Half Empty", David Rakoff, 0767929055, , 
+,,"Love, Dishonor, Marry, Die, Cherish, Perish: A Novel", David Rakoff, 038553521X, , 
+,,"Fraud: Essays", David Rakoff, 0767906314,,
+,,"Don't Get Too Comfortable", David Rakoff, B003Q6DG88, ,
+473, Loopholes, , , , ,
+474, Back to School, "How Children Succeed: Grit, Curiosity, and the Hidden Power of Character", Paul Tough, 0544104404, , 
+475, Send a Message, "Tasteful Nudes: ...and Other Misguided Attempts at Personal Growth and Validation",  Dave Hill, 1250031842, , 
+476, What Doesn't Kill You, "We Learn Nothing: Essays",  Tim Kreider, 1439198713, , 
+477, Getting Away With It, "The Boy Kings of Texas: A Memoir", Domingo Martinez, 0762779195, , 
+478, Red State Blue State, "You're Not as Crazy as I Thought (But You're Still Wrong)",  Phil Neisser, 1612344615,
+,
+479, Little War on the Prairie, "North Country: The Making of Minnesota",  Mary Lethert Wingerd, 0816648689, , 
+480, Animal Sacrifice, "Purity, Sacrifice, and the Temple",  Jonathan Klawans, 0195395840, , 
+,,"Rin Tin Tin: The Life and the Legend",  Susan Orlean, 1439190143, , 
 

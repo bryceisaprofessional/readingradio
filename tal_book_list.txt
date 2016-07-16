@@ -755,6 +755,18 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"Boy Kings of Texas: A Memoir", Domingo Martinez, 0762779195, , 
 450, So Crazy It Just Might Work, "The Man Who Loved Only Numbers", Paul Hoffman, 0786884061, , 
 ,,"Lost Science", Gerry Vassilatos, 0945685254, , 
+451, Back to Penn State, "Nobody's Family is Going to Change", Louise Fitzhugh,1939601495,, 
+452, Poultry Slam 2011, , , , , 
+453, Nemeses, "A Bad Idea I'm About to Do: True Tales of Seriously Poor Judgment and Stunningly Awkward Adventure",  Chris Gethard, 0306820307, , 
+454, Mr. Daisey and the Apple Factory, , , , , 
+455, Continental Breakup, , , , , 
+456, Reap What You Sow, "Bunch of Amateurs: Inside America's Hidden World of Inventors, Tinkerers, and Job Creators",  Jack Hitt, 0307393763, , 
+457, What I Did For Love, "Stories for Nighttime and Some for the Day",  Ben Loory, 0143119508
+,,"Fiction Ruined My Family", Jeanne Darst, 1594486174, , 
+458, Play the Part, "The Journal of Best Practices",  David Finch, 1439189749, , 
+459, What Kind of Country, , , , , 
+460, Retraction, , , , , 
+
 
 
 

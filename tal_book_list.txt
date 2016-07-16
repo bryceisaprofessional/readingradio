@@ -802,4 +802,18 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 479, Little War on the Prairie, "North Country: The Making of Minnesota",  Mary Lethert Wingerd, 0816648689, , 
 480, Animal Sacrifice, "Purity, Sacrifice, and the Temple",  Jonathan Klawans, 0195395840, , 
 ,,"Rin Tin Tin: The Life and the Legend",  Susan Orlean, 1439190143, , 
+481, This Week, "Come Back to Afghanistan", Susan Burton & Hyer Akbar, B004AE2NNE, 
+,,"It's Even Worse Than It Looks", Thomas E. Mann  & Norman J. Ornstein, 0465096204, , 
+,,"Odds Against Tomorrow: A Novel", Nathaniel Rich, , 
+482, "Lights, Camera, Christmas!", "A Kind of Flying: Selected Stories",  Ron Carlson,0393324796, , 
+483, Self-Improvement Kick, "The New York Regional Mormon Singles Halloween Dance, a Memoir", Elna Baker, 0452296498, , 
+484, Doppelgngers, "There Are No Children Here",  Alex Kotlowitz, 0385265565,,
+485, Surrogates, "Sudden Fury",  Leslie Walker, 0312923074, , 
+486, Valentine's Day, "Stories for Nighttime and Some for the Day",  Ben Loory, 0143119508
+487, "Harper High School, Part One", , , , , 
+488, "Harper High School, Part Two","There Are No Children Here",  Alex Kotlowitz, 0385265565,, 
+489, "No Coincidence, No Story!", "The Scarlet Letter", Nathaniel Hawthorne, 1512090565
+490, Trends With Benefits, "The Declining Work and Welfare of People with Disabilities:",  Richard V. Burkhauser  & Mary Daly, 0844772151, , 
+
+
 

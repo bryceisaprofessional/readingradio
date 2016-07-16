@@ -854,8 +854,23 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 ,,"Suddenly, a Knock on the Door: Stories", Etgar Keret, 0374533334, ,
 519, Dead Men Tell No Tales, , , , ,
 520, No Place Like Home, , , , ,
-
-
-
+521, Bad Baby, "The Fifth Child",  Doris Lessing, 0679721827, ,
+,,"Just Babies: The Origins of Good and Evil",  Paul Bloom, 0307886859, ,
+,,"If You Lived Here You'd Already Be Home",  John Jodzio, B003U8A7CK, ,
+522, Tarred and Feathered, "So You've Been Publicly Shamed", Jon Ronson, 1594634017, ,
+523, Death and Taxes, , , , ,
+524, I Was So High, "Addicted Healers", Ethan O. Bryson, 0882823922, ,
+525, Call For Help, , , , ,
+526, Is That What I Look Like?, "The Boy Kings of Texas: A Memoir", Domingo Martinez, 0762779195, ,
+,,"My Heart Is a Drunken Compass: A Memoir",  Domingo Martinez, 149300140X,,
+,,"When It Happens to You: A Novel in Stories", Molly Ringwald, 0061809470, ,
+527, 180 Degrees, "The Education of Little Tree",  Forrest Carter , 0826328091, ,
+,,"Stories for Nighttime and Some for the Day",  Ben Loory, 0143119508, ,
+528, The Radio Drama Episode, , , , ,
+529, Human Spectacle, "Suspicious Minds: How Culture Shapes Madness", Joel Gold & Ian Gold, 143918156X, ,
+,,"The Outsider: The Life and Times of Roger Barker",  Ariel Sabar ,B00I14K8H2, ,
+530, Mind Your Own Business, "Division Street: America",  Studs Terkel , 1595580727, ,
+,,"Working", Studs Terkel, 1565843428, ,
+,,"The Good War: An Oral History of World War II", Studs Terkel, 1565843436, ,
 
 

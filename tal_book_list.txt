@@ -766,6 +766,30 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 458, Play the Part, "The Journal of Best Practices",  David Finch, 1439189749, , 
 459, What Kind of Country, , , , , 
 460, Retraction, , , , , 
+461, Take the Money and Run for Office, "While America Sleeps: A Wake-up Call for the Post-9/11 Era",  Russ Feingold, B00540PA4C
+462: Own Worst Enemy, "A Pirate for Life",  Steve Blass  & Erik Sherman, 160078819X
+463, Mortal Vs. Venial, "Mr. Smith Goes to Prison: What My Year Behind Bars Taught Me About America's Prison Crisis", Jeff Smith , 1250058406
+464, Invisible Made Visible, "C'mon Papa: Dispatches from a Dad in the Dark", Ryan Knighton, B003HG5R20, , 
+,,"Cockeyed ", Ryan Knighton, 1586484400, , 
+,,"Half Empty", David Rakoff, 0767929055, , 
+,,"Squirrel Seeks Chipmunk: A Modest Bestiary", David Sedaris, 0316038407, , 
+465, What Happened At Dos Erres, "Finding Oscar: Massacre, Memory, and Justice in Guatemala",  Ana Arana & Sebastian Rotella, B0085O8154, 
+466, Blackjack, "Bunch of Amateurs: Inside America's Hidden World of Inventors, Tinkerers, and Job Creators",  Jack Hitt, 0307393763, , 
+,,"The Power of Habit: Why We Do What We Do in Life and Business",  Charles Duhigg,  Charles Duhigg, , 
+467, Americans in China, "The Last Days of Old Beijing: Life in the Vanishing Backstreets of a City Transformed", Michael Meyer, B003WUYE3E, , 
+,,"In Manchuria: A Village Called Wasteland and the Transformation of Rural China", Michael Meyer, 1620402882, 
+468, Switcheroo, , , , , 
+469, Hiding in Plain Sight, "The Yonahlossee Riding Camp for Girls",  Anton DiSclafani, 1594632707, 
+,,"At the Devil's Table: The Untold Story of the Insider Who Brought Down the Cali Cartel",  William C. Rempel, B004J4WM0E
+470, Show Me the Way, "Bio Of An Ogre",  Piers Anthony, 0441062253, , 
+,,"Ogre, Ogre (Xanth)",  Piers Anthony, 0345354923, , 
+,,"Shade of the Tree", Piers Anthony, 0812531035, , 
+,,"Fractal Mode (The Mode Series)", Piers Anthony, 0399136495, , 
+,,"I'll Seize the Day Tomorrow", Jonathan Goldstein, 014317388X, , 
+
+
+
+
 
 
 

@@ -902,5 +902,25 @@ EPISODE #, EPISODE TITLE, BOOK TITLE, AUTHOR, ISBN/ASIN, AMAZON LINK,
 548, "Cops See It Differently, Part Two", , , , 
 549, Amateur Hour, "Bunch of Amateurs: Inside America's Hidden World of Inventors, Tinkerers, and Job Creators",  Jack Hitt, 0307393763, ,
 550, Three Miles, , , , , 
+551, Good Guys 2015, , , , ,
+552, Need To Know Basis, , , , , 
+553, Stuck In The Middle (2015), "A House in the Sky: A Memoir",  Amanda Lindhout & Sara Corbett, 1451645619, ,
+,,"Difficult Men: Behind the Scenes of a Creative Revolution",  Brett Martin, 0143125699, , 
+554, Not It!, "Places Rated Almanac", David Savageau, 0979319900, , 
+555, The Incredible Rarity of Changing Your Mind, , , , , 
+556, "Same Bed, Different Dreams", "On the Art of the Cinema", Kim Jong-il, B00HQ5UECQ, , 
+,,"A Kim Jong-Il Production", Paul Fischer, 1250054273, , 
+557, Birds & Bees, "The Case for Loving: The Fight for Interracial Marriage",  Selina Alko, 0545478537, , 
+558, Game Face, "Welcome to the Goddamn Ice Cube", Blair Braverman, 0062311565, , 
+,,"When Blushing Hurts", Enrique Jadresic, 0595521576, , 
+,,"The Expression of the Emotions in Man and Animals", Charles Darwin, 1470188880, , 
+559, Captain's Log, "Dead Wake", Erik Larson, 0307408876, , 
+,,"Isaac's Storm", Erik Larson, B005PRJNCY, , 
+,,"Modern Romance", Aziz Ansari & Eric Klinenberg, B00OZ0TMYG, , 
+,,"The Seven Good Years: A Memoir", Etgar Keret, B00OYXWKDY, , 
+560, Abdi and the Golden Ticket, , , , , 
+
+
+
 
 
